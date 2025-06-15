@@ -1,6 +1,6 @@
 # Cyclistic_Dataset_Analysis_Excel_PowerQuery
 
-![image](https://github.com/user-attachments/assets/a322ebff-b42b-4bf3-89ff-daec852c8c7d)
+  ![image](https://github.com/user-attachments/assets/a322ebff-b42b-4bf3-89ff-daec852c8c7d)
 
 🚨 The Challenge:  How can a Chicago-based bike-share company convert more casual riders into annual members?
 
